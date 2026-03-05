@@ -18,15 +18,15 @@
     "install:panel": "npm install --legacy-peer-deps"
   },
   "keywords": [ "termux-whatsapp-bot", "whatsapp-bot", "whatsapp-api",
-    "baileys-bot", "whatsApp", "mega-bot", "mega-md", "multi-device", "mega-ai"
+    "baileys-bot", "whatsApp", "annunaki", "annunaki", "multi-device", "annunaki"
   ],
-  "homepage": "https://github.com/GlobalTechInfo/MEGA-MD",
+  "homepage": "https://github.com/Stanley12590/ANNUNAKI",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GlobalTechInfo/MEGA-MD.git"
+    "url": "git+https://github.com/Stanley12590/ANNUNAKI.git"
   },
   "bugs": {
-    "url": "https://github.com/Stanley12590/ANNUKAI/issues"
+    "url": "https://github.com/Stanley12590/ANNUNAKI/issues"
   },
   "license": "MIT",
   "author": "STANYTZ",
