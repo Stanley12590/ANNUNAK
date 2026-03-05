@@ -1,129 +1,183 @@
-<!-- Header Animation -->
-<p align="center">
+<!-- 🌀 HERO SECTION WITH ANIMATION -->
+<div align="center">
+  
   <a href="https://github.com/Stanley12590/ANNUNAK">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=55&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=100&lines=⚡+ANNUNAKI+BOT+⚡;🤖+WHATSAPP+MULTI-DEVICE;🌍+INTERNATIONAL+EDITION+2026;🇹🇿+BY+STANY-TECH" alt="ANNUNAKI Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=5000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&height=120&lines=⚡+ANNUNAKI+BOT+⚡;🤖+Next-Gen+WhatsApp+AI;🌍+Global+Edition+2026;🇹🇿+Powered+by+Stany-Tech" alt="ANNUNAKI Hero"/>
   </a>
-</p>
 
-<!-- Banner Image -->
-<p align="center">
+  <!-- 🖼️ DYNAMIC BANNER -->
+  <br/>
   <a href="https://github.com/Stanley12590/ANNUNAK">
-    <img src="https://raw.githubusercontent.com/Official123-12/STANYFREEBOT-/refs/heads/main/IMG_1377.jpeg" width="850" alt="ANNUNAKI Banner"/>
+    <img src="https://raw.githubusercontent.com/Official123-12/STANYFREEBOT-/refs/heads/main/IMG_1377.jpeg" 
+         width="900" 
+         alt="ANNUNAKI Banner"
+         style="border-radius: 20px; box-shadow: 0 10px 40px rgba(0,245,255,0.4);"/>
   </a>
-</p>
 
-<!-- Decorative Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="3"/>
-</p>
+  <!-- ✨ DECORATIVE GLOW -->
+  <br/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="2"/>
+  
+  <!-- 🏆 STATUS BADGES -->
+  <br/>
+  <a href="https://github.com/Stanley12590/ANNUNAK"><img src="https://img.shields.io/github/stars/Stanley12590/ANNUNAK?style=for-the-badge&logo=github&color=FFD700&label=Stars"/></a>
+  <a href="https://github.com/Stanley12590/ANNUNAK/network/members"><img src="https://img.shields.io/github/forks/Stanley12590/ANNUNAK?style=for-the-badge&logo=github&color=00CED1&label=Forks"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Version-2026.1.0-9370DB?style=for-the-badge&logo=appveyor"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-🟢_ONLINE-00FF7F?style=for-the-badge"/></a>
 
-<!-- Status Badges -->
-<p align="center">
-  <a href="https://github.com/Stanley12590/ANNUNAK"><img src="https://img.shields.io/github/stars/Stanley12590/ANNUNAK?style=for-the-badge&logo=github&color=FFD700"/></a>
-  <a href="https://github.com/Stanley12590/ANNUNAK/fork"><img src="https://img.shields.io/github/forks/Stanley12590/ANNUNAK?style=for-the-badge&logo=github&color=00CED1"/></a>
-  <a href="https://github.com/Stanley12590/ANNUNAK/issues"><img src="https://img.shields.io/github/issues/Stanley12590/ANNUNAK?style=for-the-badge&logo=github&color=FF6B6B"/></a>
-  <a href="https://github.com/Stanley12590/ANNUNAK/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Stanley12590/ANNUNAK?style=for-the-badge&logo=github&color=9370DB"/></a>
-</p>
+  <br/><br/>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Version-2026.1-blue?style=for-the-badge&logo=appveyor"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Platform-WhatsApp%20Multi--Device-green?style=for-the-badge&logo=whatsapp"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Language-Node.js%20%2B%20Baileys-orange?style=for-the-badge&logo=node.js"/></a>
-</p>
+  <!-- 🚀 QUICK ACTION BUTTONS -->
+  <a href="#-deploy-now"><img src="https://img.shields.io/badge/🚀_DEPLOY_NOW-00FFFF?style=for-the-badge&logo=rocket&logoColor=black"/></a>
+  <a href="#-features"><img src="https://img.shields.io/badge/✨_FEATURES-FF6B9D?style=for-the-badge&logo=sparkles"/></a>
+  <a href="#-support"><img src="https://img.shields.io/badge/💬_SUPPORT-25D366?style=for-the-badge&logo=whatsapp"/></a>
 
-<!-- Quick Links -->
-<p align="center">
-  <a href="#-features"><b>✨ Features</b></a> •
-  <a href="#-deployment"><b>🚀 Deploy</b></a> •
-  <a href="#-support"><b>💬 Support</b></a> •
-  <a href="#-developer"><b>👨‍💻 Developer</b></a>
-</p>
+</div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%"/>
+<img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="3"/>
 
-## ✨ FEATURES
+<!-- 🎯 HERO TAGLINE -->
+<div align="center">
+  
+> ### 🌟 *"The Future of WhatsApp Automation is Here"*
+> #### ⚡ Fast • 🔐 Secure • 🎨 Beautiful • 🌍 Global
 
-> 🤖 **Smart Automation** – Advanced AI-powered commands & auto-reply  
-> 🔐 **Secure Session** – Encrypted pairing code & session management  
-> ⚡ **Lightning Fast** – Optimized for speed & low resource usage  
-> 🌐 **Multi-Platform** – Deploy on Heroku, Render, Replit, VPS & more  
-> 🎨 **Customizable** – Easy config via `settings.js` & environment variables  
-> 📦 **Plugin System** – Add/remove features without touching core code  
-> 🛡️ **Anti-Ban Protection** – Built-in rate limiting & safe-mode options  
-> 🌍 **Multi-Language** – Swahili, English & more coming soon!
+</div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%"/>
 
-## 🚀 DEPLOYMENT OPTIONS
+<!-- ✨ FEATURES GRID -->
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" width="35"/> FEATURES
 
-### 1️⃣ Fork Repository
-<p align="center">
-  <a href="https://github.com/Stanley12590/ANNUNAK/fork">
-    <img src="https://img.shields.io/badge/FORK-ANNUNAKI-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-### 2️⃣ Get Session ID (Pairing Code)
-> ⚠️ Use VPN if any link fails to load
-
-<p align="center">
-  <a href="https://butto-9befd6758ddd.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/PAIR_CODE_1-GET_NOW-orange?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-  <a href="https://enzo-md-sessions-generator-2.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/PAIR_CODE_2-GET_NOW-pink?style=for-the-badge&logo=render&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🖥️ Choose Your Platform
-
-| Platform | Status | Deploy Link |
-|----------|--------|-------------|
-| **Heroku** | ✅ Recommended | <a href="https://stainy-tech.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Deploy-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/></a> |
-| **Render** | ✅ Stable | <a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Deploy-Render-000000?style=flat-square&logo=render&logoColor=white"/></a> |
-| **Replit** | ✅ Easy | <a href="https://replit.com/~" target="_blank"><img src="https://img.shields.io/badge/Deploy-Replit-F26207?style=flat-square&logo=replit&logoColor=white"/></a> |
-| **TalkDrove** | ✅ Fast | <a href="https://talkdrove.com/share-bot/66" target="_blank"><img src="https://img.shields.io/badge/Deploy-TalkDrove-6971FF?style=flat-square&logo=googlechat&logoColor=white"/></a> |
-| **DigitalOcean** | ✅ Pro | <a href="https://www.digitalocean.com/" target="_blank"><img src="https://img.shields.io/badge/Deploy-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"/></a> |
-| **Google Cloud** | ✅ Enterprise | <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Deploy-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/></a> |
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><b>🤖 AI Smart</b><br/><sub>Auto-reply & NLP</sub></td>
+    <td align="center"><b>⚡ Ultra Fast</b><br/><sub>Optimized core</sub></td>
+    <td align="center"><b>🔐 Secure</b><br/><sub>Encrypted sessions</sub></td>
+    <td align="center"><b>🎨 Customizable</b><br/><sub>Easy config</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌐 Multi-Platform</b><br/><sub>Deploy anywhere</sub></td>
+    <td align="center"><b>📦 Plugin System</b><br/><sub>Modular design</sub></td>
+    <td align="center"><b>🛡️ Anti-Ban</b><br/><sub>Safe-mode built-in</sub></td>
+    <td align="center"><b>🌍 Multi-Language</b><br/><sub>Swahili • English • More</sub></td>
+  </tr>
+</table>
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"/>
 
-## 💬 SUPPORT & COMMUNITY
+<!-- 🚀 DEPLOYMENT SECTION -->
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" width="35"/> <a id="deploy-now"></a>DEPLOY NOW — CHOOSE YOUR PLATFORM
 
-<p align="center">
-  <a href="https://whatsapp.com/channel/0029Vb8ixZ6DOQIPoX014p1k" target="_blank">
-    <img src="https://img.shields.io/badge/📢_Update_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://chat.whatsapp.com/FDPHwoJOH56BuNF5pWKXWo" target="_blank">
-    <img src="https://img.shields.io/badge/💬_Support_Group-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/@stanleytechnology?si=FRItJCOs0nWSADoq" target="_blank">
-    <img src="https://img.shields.io/badge/🎬_YouTube_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  
+### 🔹 Step 1: Fork the Repo
+<br/>
+<a href="https://github.com/Stanley12590/ANNUNAK/fork">
+  <img src="https://img.shields.io/badge/⚡_FORK_NOW-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=gray"/>
+</a>
 
----
+### 🔹 Step 2: Get Your Session ID
+> 💡 Tip: Use VPN if any link doesn't load
 
-## 👨‍💻 MEET THE DEVELOPER
+<br/>
+<a href="https://butto-9befd6758ddd.herokuapp.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🔑_PAIR_CODE_1-FF6B35?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+<a href="https://enzo-md-sessions-generator-2.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/🔑_PAIR_CODE_2-E6398C?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
 
-<p align="center">
-  <a href="https://wa.link/pn8y0n" target="_blank">
-    <img src="https://img.shields.io/badge/📱_Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <br/>
-  <sub>Built with ❤️ by <strong>Stany-Tech</strong> 🇹🇿 | © 2026</sub>
-</p>
+</div>
 
----
+<br/>
 
-## ⚠️ IMPORTANT DISCLAIMER
+### 🖥️ One-Click Deploy Platforms
+
+<div align="center">
+  
+| Platform | Why Choose? | Deploy |
+|----------|-------------|--------|
+| **🟣 Heroku** | ✅ Easiest for beginners • Free tier | <a href="https://stainy-tech.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Deploy-430098?style=flat-square&logo=heroku&logoColor=white"/></a> |
+| **⚫ Render** | ✅ Auto-restart • No credit card | <a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Deploy-000000?style=flat-square&logo=render&logoColor=white"/></a> |
+| **🟠 Replit** | ✅ Code & run in browser • Great for testing | <a href="https://replit.com/~" target="_blank"><img src="https://img.shields.io/badge/Deploy-F26207?style=flat-square&logo=replit&logoColor=white"/></a> |
+| **🔵 TalkDrove** | ✅ Optimized for bots • 24/7 uptime | <a href="https://talkdrove.com/share-bot/66" target="_blank"><img src="https://img.shields.io/badge/Deploy-6971FF?style=flat-square&logo=googlechat"/></a> |
+| **🔷 DigitalOcean** | ✅ Pro performance • Full control | <a href="https://www.digitalocean.com/" target="_blank"><img src="https://img.shields.io/badge/Deploy-0080FF?style=flat-square&logo=digitalocean"/></a> |
+| **🔴 Google Cloud** | ✅ Enterprise grade • Global scale | <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Deploy-4285F4?style=flat-square&logo=googlecloud"/></a> |
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"/>
+
+<!-- 💬 SUPPORT SECTION -->
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.webp" width="35"/> <a id="support"></a>JOIN OUR COMMUNITY
+
+<div align="center">
+  
+<a href="https://whatsapp.com/channel/0029Vb8ixZ6DOQIPoX014p1k" target="_blank">
+  <img src="https://img.shields.io/badge/📢_Updates_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54"/>
+</a>
+<a href="https://chat.whatsapp.com/FDPHwoJOH56BuNF5pWKXWo" target="_blank">
+  <img src="https://img.shields.io/badge/💬_Support_Group-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54"/>
+</a>
+<a href="https://youtube.com/@stanleytechnology?si=FRItJCOs0nWSADoq" target="_blank">
+  <img src="https://img.shields.io/badge/🎬_Video_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://github.com/Stanley12590/ANNUNAK/issues">
+  <img src="https://img.shields.io/badge/🐛_Report_Bug-6F42C1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"/>
+
+<!-- 👨‍💻 DEVELOPER SECTION -->
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f468_1f4bb/512.webp" width="35"/> MEET THE CREATOR
+
+<div align="center">
+  
+<a href="https://wa.link/pn8y0n" target="_blank">
+  <img src="https://img.shields.io/badge/📱_Chat_with_Stany-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54"/>
+</a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Official123-12/STANYFREEBOT-/refs/heads/main/IMG_1377.jpeg" 
+     width="150" 
+     style="border-radius: 50%; border: 4px solid #00F5FF; box-shadow: 0 5px 20px rgba(0,245,255,0.5);"/>
+
+<br/>
+
+### 👨‍💻 Stany-Tech
+> 🇹🇿 Tanzania • Software Engineer • Bot Developer  
+> ✨ Building the future of automation, one line at a time.
+
+<br/>
+
+<a href="https://github.com/Stanley12590">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://youtube.com/@stanleytechnology">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"/>
+
+<!-- ⚠️ DISCLAIMER -->
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a0_fe0f/512.webp" width="35"/> IMPORTANT NOTICE
 
 
 ```diff
-! This bot is NOT affiliated with WhatsApp Inc.
-! Use at your own risk. Misuse may result in account suspension.
-! The developer is NOT responsible for any bans or misuse.
-! Respect WhatsApp Terms of Service & local regulations.
++ ✅ This bot is for educational & personal use only.
++ ✅ Always respect WhatsApp Terms of Service.
++ ✅ Use a secondary number for testing.
+
+! ⚠️ NOT affiliated with WhatsApp Inc.
+! ⚠️ Misuse may result in account suspension.
+! ⚠️ Developer is NOT responsible for bans or misuse.
+! ⚠️ Keep your session ID private & secure.
 
