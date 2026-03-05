@@ -1,156 +1,129 @@
-   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=85&pause=100000000&color=FFFF00&lines=true&vCenter=true&width=815&height=100&lines=𝐒𝐓𝐀𝐍𝐘-𝐓𝐗𝐑-𝐙𝐌𝐃)](https://git.io/typing-svg) 
-  
+<!-- Header Animation -->
+<p align="center">
+  <a href="https://github.com/Stanley12590/ANNUNAK">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=55&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=100&lines=⚡+ANNUNAKI+BOT+⚡;🤖+WHATSAPP+MULTI-DEVICE;🌍+INTERNATIONAL+EDITION+2026;🇹🇿+BY+STANY-TECH" alt="ANNUNAKI Typing SVG"/>
+  </a>
+</p>
 
+<!-- Banner Image -->
+<p align="center">
+  <a href="https://github.com/Stanley12590/ANNUNAK">
+    <img src="https://raw.githubusercontent.com/Official123-12/STANYFREEBOT-/refs/heads/main/IMG_1377.jpeg" width="850" alt="ANNUNAKI Banner"/>
+  </a>
+</p>
 
+<!-- Decorative Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="3"/>
+</p>
 
+<!-- Status Badges -->
+<p align="center">
+  <a href="https://github.com/Stanley12590/ANNUNAK"><img src="https://img.shields.io/github/stars/Stanley12590/ANNUNAK?style=for-the-badge&logo=github&color=FFD700"/></a>
+  <a href="https://github.com/Stanley12590/ANNUNAK/fork"><img src="https://img.shields.io/github/forks/Stanley12590/ANNUNAK?style=for-the-badge&logo=github&color=00CED1"/></a>
+  <a href="https://github.com/Stanley12590/ANNUNAK/issues"><img src="https://img.shields.io/github/issues/Stanley12590/ANNUNAK?style=for-the-badge&logo=github&color=FF6B6B"/></a>
+  <a href="https://github.com/Stanley12590/ANNUNAK/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Stanley12590/ANNUNAK?style=for-the-badge&logo=github&color=9370DB"/></a>
+</p>
 
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Version-2026.1-blue?style=for-the-badge&logo=appveyor"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Platform-WhatsApp%20Multi--Device-green?style=for-the-badge&logo=whatsapp"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Language-Node.js%20%2B%20Baileys-orange?style=for-the-badge&logo=node.js"/></a>
+</p>
 
+<!-- Quick Links -->
+<p align="center">
+  <a href="#-features"><b>✨ Features</b></a> •
+  <a href="#-deployment"><b>🚀 Deploy</b></a> •
+  <a href="#-support"><b>💬 Support</b></a> •
+  <a href="#-developer"><b>👨‍💻 Developer</b></a>
+</p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%"/>
 
+## ✨ FEATURES
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4800color=RRGGBB&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-STANLEY+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
-
-
-  
-
-<p align="centre"><img src="https://files.catbox.moe/hfjbvb.jpeg" width="790" heigh="250"
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4000&color=00FF00&lines=true&vCenter=true&width=815&height=100&lines=𝗦𝗧𝗔𝗡𝗬-𝐓𝐗𝐑+𝐙𝐌𝐃+✌️+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4000&color=RRGGBB&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-STANLEY+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐒𝐓𝐀𝐍𝐘-𝐓𝐑𝐗 𝐍𝐄𝐖 
-
-
-
-### 1. Fork This Repository
-
-Start by forking this repository to your own GitHub account. Click the button below to fork:
-
-  
-<a href="https://github.com/Stanking11/STANY-TXR/fork"><img title="STANYTRX-ZMD" src="https://img.shields.io/badge/FORK-STANYTECH-BOTh?color=blue&style=for-the-badge&logo=github"></a>
-  
-### 2. Get Session ID 
-
-You will need a session ID to run the STANY-TXR-ZMD. Click the button below to obtain your session ID.if any error in loading site try vpn:
-
-> **1️⃣Pair Code (Session ID)**
-
-<a href='https://butto-9befd6758ddd.herokuapp.com/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
-
-> **2️⃣Pair Code (Session ID)**
-
-<a href='https://enzo-md-sessions-generator-2.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
-
-
-
-<h2 align="center">Our Deployment Options</h2>
+> 🤖 **Smart Automation** – Advanced AI-powered commands & auto-reply  
+> 🔐 **Secure Session** – Encrypted pairing code & session management  
+> ⚡ **Lightning Fast** – Optimized for speed & low resource usage  
+> 🌐 **Multi-Platform** – Deploy on Heroku, Render, Replit, VPS & more  
+> 🎨 **Customizable** – Easy config via `settings.js` & environment variables  
+> 📦 **Plugin System** – Add/remove features without touching core code  
+> 🛡️ **Anti-Ban Protection** – Built-in rate limiting & safe-mode options  
+> 🌍 **Multi-Language** – Swahili, English & more coming soon!
 
 ---
 
-<h4 align="center">1.HEROKU</h4>
-<p style="text-align: center; font-size: 1.2em;">
+## 🚀 DEPLOYMENT OPTIONS
 
+### 1️⃣ Fork Repository
+<p align="center">
+  <a href="https://github.com/Stanley12590/ANNUNAK/fork">
+    <img src="https://img.shields.io/badge/FORK-ANNUNAKI-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+### 2️⃣ Get Session ID (Pairing Code)
+> ⚠️ Use VPN if any link fails to load
 
 <p align="center">
-<a href='https://stainy-tech.vercel.app/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-800080?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
-
-<h4 align="center">2.RENDER</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="center">
-<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
-
-  <h4 align="center">3.REPLIT</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-<p align="center">
-<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=48FF68&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
-
-  <h4 align="center">4.TALK.DROVE</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="center">
-<a href='https://talkdrove.com/share-bot/66' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=FF0000&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
-
-
-  <h4 align="center">5.DIGITAL OCEAN</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="center">
-<a href='https://www.digitalocean.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Digital Ocean-black?style=for-the-badge&logo=digital&logoColot=white'/< width=150 height=28/p></a>
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=FF0000&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
-
-<h4 align="center">6.CLOUD GOOGLE</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-<p align="center">
-<a href='https://cloud.google.com/' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Google cloud Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
-
-𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗧𝗘𝗔𝗠 𝗖𝗘𝗡𝗧𝗘𝗥 𝗔𝗡𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦
-
-<h4 align="center">OUR CHANNEL</h4>
-<p style="text-align: left corner; font-size: 1.2em;">
-  
-<p align="center">
-<a href='https://whatsapp.com/channel/0029Vb8ixZ6DOQIPoX014p1k' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Support Team-48FF68?style=for-the-badge&logo=WhatsApp&logoColor=black'/< width=150 height=28/p></a>
-
-
-
-  <h4 align="center">OUR GROUP</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="center">
-<a href='chat.whatsapp.com/FDPHwoJOH56BuNF5pWKXWo' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Group Chats-6CFF3F?style=for-the-badge&logo=WhatsApp&logoColor=black'/< width=150 height=28/p></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></
-
-
-<h4 align="center">YOU TUBE</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="center">
-<a href='https://youtube.com/@stanleytechnology?si=FRItJCOs0nWSADoq' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-YouTubeChannel-FF0000?style=for-the-badge&logo=YouTube&logoColor=black'/< width=150 height=28/p></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></
-
-𝗖𝗢𝗠𝗠𝗨𝗡𝗜𝗖𝗔𝗧𝗘 𝗪𝗜𝗧𝗛 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥
-
-<h4 align="center">DEVELOPER</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="center">
-<a href='https://wa.link/pn8y0n' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-DEVELOPER-6CFF3F?style=for-the-badge&logo=WhatsApp&logoColor=white'/< width=150 height=28/p></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></
-
-- **Disclaimer:** This bot is not affiliated with `WhatsApp Inc.`. Use it at your own risk.
-- Misusing the bot may result in your `WhatsApp` account being banned. Note that you can only unban your account once.
-- I am not responsible for any bans or misuse of the bot. Please keep this warning in mind before proceeding.
+  <a href="https://butto-9befd6758ddd.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/PAIR_CODE_1-GET_NOW-orange?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://enzo-md-sessions-generator-2.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/PAIR_CODE_2-GET_NOW-pink?style=for-the-badge&logo=render&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<h2 align="center">ℹ️ Notice</h2>
-<p style="text-align: center; font-size: 1.2em;">
-  Not For Sale - If any plugin's code is obfuscated, you do not have permission to edit it in any form. Please remember to give credit if you are using or re-uploading my plugins/files. Wishing you a wonderful day ahead!</p>
+### 🖥️ Choose Your Platform
 
-©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™𝟸𝟶𝟸𝟻 
+| Platform | Status | Deploy Link |
+|----------|--------|-------------|
+| **Heroku** | ✅ Recommended | <a href="https://stainy-tech.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Deploy-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/></a> |
+| **Render** | ✅ Stable | <a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Deploy-Render-000000?style=flat-square&logo=render&logoColor=white"/></a> |
+| **Replit** | ✅ Easy | <a href="https://replit.com/~" target="_blank"><img src="https://img.shields.io/badge/Deploy-Replit-F26207?style=flat-square&logo=replit&logoColor=white"/></a> |
+| **TalkDrove** | ✅ Fast | <a href="https://talkdrove.com/share-bot/66" target="_blank"><img src="https://img.shields.io/badge/Deploy-TalkDrove-6971FF?style=flat-square&logo=googlechat&logoColor=white"/></a> |
+| **DigitalOcean** | ✅ Pro | <a href="https://www.digitalocean.com/" target="_blank"><img src="https://img.shields.io/badge/Deploy-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"/></a> |
+| **Google Cloud** | ✅ Enterprise | <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Deploy-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/></a> |
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"/>
+
+## 💬 SUPPORT & COMMUNITY
+
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029Vb8ixZ6DOQIPoX014p1k" target="_blank">
+    <img src="https://img.shields.io/badge/📢_Update_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://chat.whatsapp.com/FDPHwoJOH56BuNF5pWKXWo" target="_blank">
+    <img src="https://img.shields.io/badge/💬_Support_Group-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@stanleytechnology?si=FRItJCOs0nWSADoq" target="_blank">
+    <img src="https://img.shields.io/badge/🎬_YouTube_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 MEET THE DEVELOPER
+
+<p align="center">
+  <a href="https://wa.link/pn8y0n" target="_blank">
+    <img src="https://img.shields.io/badge/📱_Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <br/>
+  <sub>Built with ❤️ by <strong>Stany-Tech</strong> 🇹🇿 | © 2026</sub>
+</p>
+
+---
+
+## ⚠️ IMPORTANT DISCLAIMER
+
+
+```diff
+! This bot is NOT affiliated with WhatsApp Inc.
+! Use at your own risk. Misuse may result in account suspension.
+! The developer is NOT responsible for any bans or misuse.
+! Respect WhatsApp Terms of Service & local regulations.
+
